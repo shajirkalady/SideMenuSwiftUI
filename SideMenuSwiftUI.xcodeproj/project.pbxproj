@@ -18,6 +18,10 @@
 		D4EC3118291ADD3500DCA78A /* DocsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4EC3117291ADD3500DCA78A /* DocsView.swift */; };
 		D4EC311C291ADE6800DCA78A /* SideMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4EC311B291ADE6800DCA78A /* SideMenu.swift */; };
 		D4EC311E291ADE7400DCA78A /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4EC311D291ADE7400DCA78A /* MenuItem.swift */; };
+		D4EC3120291BFC6400DCA78A /* MenuHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4EC311F291BFC6400DCA78A /* MenuHeaderView.swift */; };
+		D4EC3122291BFC7400DCA78A /* MenuContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4EC3121291BFC7400DCA78A /* MenuContentView.swift */; };
+		D4EC3124291BFC8200DCA78A /* MenuFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4EC3123291BFC8200DCA78A /* MenuFooterView.swift */; };
+		D4EC3126291BFDDC00DCA78A /* MenuSeparatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4EC3125291BFDDC00DCA78A /* MenuSeparatorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +37,10 @@
 		D4EC3117291ADD3500DCA78A /* DocsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocsView.swift; sourceTree = "<group>"; };
 		D4EC311B291ADE6800DCA78A /* SideMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenu.swift; sourceTree = "<group>"; };
 		D4EC311D291ADE7400DCA78A /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
+		D4EC311F291BFC6400DCA78A /* MenuHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuHeaderView.swift; sourceTree = "<group>"; };
+		D4EC3121291BFC7400DCA78A /* MenuContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuContentView.swift; sourceTree = "<group>"; };
+		D4EC3123291BFC8200DCA78A /* MenuFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuFooterView.swift; sourceTree = "<group>"; };
+		D4EC3125291BFDDC00DCA78A /* MenuSeparatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuSeparatorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +108,10 @@
 			children = (
 				D4EC311B291ADE6800DCA78A /* SideMenu.swift */,
 				D4EC311D291ADE7400DCA78A /* MenuItem.swift */,
+				D4EC311F291BFC6400DCA78A /* MenuHeaderView.swift */,
+				D4EC3121291BFC7400DCA78A /* MenuContentView.swift */,
+				D4EC3123291BFC8200DCA78A /* MenuFooterView.swift */,
+				D4EC3125291BFDDC00DCA78A /* MenuSeparatorView.swift */,
 			);
 			path = SideMenu;
 			sourceTree = "<group>";
@@ -177,7 +189,11 @@
 				D4EC3110291ADD0400DCA78A /* HomeView.swift in Sources */,
 				D4EC3114291ADD1C00DCA78A /* VideosView.swift in Sources */,
 				D4EC311C291ADE6800DCA78A /* SideMenu.swift in Sources */,
+				D4EC3120291BFC6400DCA78A /* MenuHeaderView.swift in Sources */,
 				D4EC3102291ADC0C00DCA78A /* SplashView.swift in Sources */,
+				D4EC3122291BFC7400DCA78A /* MenuContentView.swift in Sources */,
+				D4EC3126291BFDDC00DCA78A /* MenuSeparatorView.swift in Sources */,
+				D4EC3124291BFC8200DCA78A /* MenuFooterView.swift in Sources */,
 				D4EC3116291ADD2900DCA78A /* ContactsView.swift in Sources */,
 				D4EC3118291ADD3500DCA78A /* DocsView.swift in Sources */,
 				D4EC3100291ADC0C00DCA78A /* SideMenuSwiftUIApp.swift in Sources */,
